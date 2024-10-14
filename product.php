@@ -93,7 +93,7 @@ include './library/consulSQL.php';
                              <p>
                              <?php
                              $pref=number_format($prod['Precio']-($prod['Precio']*($prod['Descuento']/100)), 2, '.', '');
-                             echo $prod['Descuento']."% descuento: $".$pref; 
+                             echo $prod['Descuento']."% descuento: S/.".$pref; 
                              ?>
                              </p>
                              <?php else: ?>

@@ -27,7 +27,7 @@ include './library/consulSQL.php';
                                 <h3 class="text-center">Información de producto</h3>
                                 <br><br>
                                 <h4><strong>Nombre: </strong>'.$fila['NombreProd'].'</h4><br>
-                                <h4><strong>Precio: </strong>$'.number_format(($fila['Precio']-($fila['Precio']*($fila['Descuento']/100))), 2, '.', '').'</h4><br>
+                                <h4><strong>Precio: </strong>S/.'.number_format(($fila['Precio']-($fila['Precio']*($fila['Descuento']/100))), 2, '.', '').'</h4><br>
                                 <h4><strong>Cantidad: </strong>'.$fila['Stock'].'</h4><br>
                                 <h4><strong>Categoria: </strong>'.$fila['Nombre'].'</h4>';
                                 if($fila['Stock']>=1){

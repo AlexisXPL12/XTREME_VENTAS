@@ -75,7 +75,7 @@
                              <p>
                              <?php
                              $pref=number_format($fila['Precio']-($fila['Precio']*($fila['Descuento']/100)), 2, '.', '');
-                             echo $fila['Descuento']."% descuento: $".$pref; 
+                             echo $fila['Descuento']."% descuento: S/.".$pref; 
                              ?>
                              </p>
                              <?php else: ?>
