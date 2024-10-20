@@ -35,7 +35,7 @@ nav{
     width: 100%;
     position: fixed;
     top: 0px;
-    background-color: #03a9f4;
+    background-color: #f44336;
     box-shadow: 2px 0px 7px #000;
 	z-index: 50;
 }
@@ -96,7 +96,7 @@ footer{
     padding: 40px 0px;
 }
 .text-footer{
-    color: #5bc0de;
+    color: #f44336;
 }
 footer a{
     color: #fff;
@@ -139,9 +139,6 @@ footer a{
     color: #000;
 }
 /* ========================================= product styles ======================================*/
-#container-page-product{
-    background-image: url(../assets/img/font-registration.JPG);
-}
 #store, #infoproduct, #container-pedido{
     background-color: rgba(255,255,255,.97);
     min-height: 900px;
@@ -172,4 +169,22 @@ footer a{
 #prove-product-cat-config{
     background-color: #fff;
     min-height: 900px;
+}
+
+.carousel-inner{
+    max-height: 600px;
+}
+
+.carousel-inner img{
+    width: 100%;
+    height: auto;
+    object-fit:contain;
+}
+
+.menu-nav a{
+    background: #333;
+}
+
+#panel-admin{
+    background-color: #333;
 }

@@ -82,7 +82,7 @@
                               <p>S/.<?php echo $fila['Precio']; ?></p>
                              <?php endif; ?>
                         <p class="text-center">
-                            <a href="infoProd.php?CodigoProd=<?php echo $fila['CodigoProd']; ?>" class="btn btn-primary btn-sm btn-raised btn-block"><i class="fa fa-plus"></i>&nbsp; Detalles</a>
+                            <a href="infoProd.php?CodigoProd=<?php echo $fila['CodigoProd']; ?>" class="btn btn-success btn-sm btn-raised btn-block"><i class="fa fa-plus"></i>&nbsp; Detalles</a>
                         </p>
                        </div>
                      </div>
@@ -104,7 +104,7 @@
                         <p><i class="fa fa-users fa-4x"></i></p>
                         <h3>Registrate</h3>
                         <p>Registrate como cliente de <span class="tittles-pages-logo">Xtreme AI</span> en un sencillo formulario para poder completar tus pedidos</p>
-                        <p><a href="registration.php" class="btn btn-info btn-raised btn-block">Registrarse</a></p>   
+                        <p><a href="registration.php" class="btn btn-warning btn-raised btn-block">Registrarse</a></p>   
                    </article>
                 </div>
 

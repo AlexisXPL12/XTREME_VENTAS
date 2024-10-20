@@ -24,7 +24,7 @@ include './library/consulSQL.php';
                 <div class="row">
                   <div class="col-xs-12 col-md-4">
                     <div class="dropdown">
-                      <button class="btn btn-primary btn-raised dropdown-toggle" type="button" id="drpdowncategory" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+                      <button class="btn btn-success btn-raised dropdown-toggle" type="button" id="drpdowncategory" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
                         Seleccione una categoría &nbsp;
                         <span class="caret"></span>
                       </button>
@@ -47,7 +47,7 @@ include './library/consulSQL.php';
                           <span class="input-group-addon"><i class="fa fa-search" aria-hidden="true"></i></span>
                           <input type="text" id="addon1" class="form-control" name="term" required="" title="Escriba nombre o marca del producto">
                           <span class="input-group-btn">
-                              <button class="btn btn-info btn-raised" type="submit">Buscar</button>
+                              <button class="btn btn-warning btn-raised" type="submit">Buscar</button>
                           </span>
                         </div>
                       </div>

@@ -17,7 +17,7 @@
             <h1>Panel de administración <small class="tittles-pages-logo">Xtreme AI</small></h1>
           </div>
           <!--====  Nav Tabs  ====-->
-          <ul class="nav nav-tabs nav-justified" style="margin-bottom: 15px;">
+          <ul id="panel-admin" class="nav nav-tabs nav-justified" style="margin-bottom: 15px;">
             <li>
               <a href="configAdmin.php?view=product">
                 <i class="fa fa-cubes" aria-hidden="true"></i> &nbsp; Productos

@@ -34,7 +34,7 @@
                 <p style="color: #FFF">Huanta</p>
                 <p style="color: #FFF">Contactos</p>
                 <p style="font-size:20px" aria-hidden="true">  960 – 074 - 730 / 907 – 309 - 079</p>
-                E-mail: <a href="#" target="_blank" style="color: #5bc0de"> &nbsp; valdiviatrucioslaexisgabriel@gmail.com</a>
+                E-mail: <a href="#" target="_blank" style="color: #f44336"> &nbsp; valdiviatrucioslaexisgabriel@gmail.com</a>
             </div>
         </div>
     </div>

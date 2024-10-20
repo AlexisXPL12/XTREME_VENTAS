@@ -1932,7 +1932,8 @@ protected function _enddoc()
 }
 }
 
-// Handle special IE contype request
+
+
 if(isset($_SERVER['HTTP_USER_AGENT']) && $_SERVER['HTTP_USER_AGENT']=='contype')
 {
 	header('Content-Type: application/pdf');
