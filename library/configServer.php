@@ -1,5 +1,6 @@
 <?php
-define("USER", "root");
+define("USER", "");
 define("SERVER", "localhost");
-define("BD", "xtremeai");
+define("BD", "");
 define("PASS", "");
+?>
