@@ -44,7 +44,7 @@
                                 }
                                 mysqli_free_result($consulta);
                             }
-                            echo '<tr class="bg-danger"><td colspan="2">Total</td><td><strong>'.$sumaA.'</strong></td><td><strong>$'.number_format($suma,2).'</strong></td></tr></table><div class="ResForm"></div>';
+                            echo '<tr class="bg-danger"><td colspan="2">Total</td><td><strong>'.$sumaA.'</strong></td><td><strong>S/. '.number_format($suma,2).'</strong></td></tr></table><div class="ResForm"></div>';
                             echo '
                             <p class="text-center">
                             <a href="product.php" class="btn btn-primary btn-raised btn-lg">Seguir comprando</a>

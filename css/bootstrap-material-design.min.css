@@ -430,7 +430,7 @@ body .container-fluid .well-danger {
 .input-group-btn .btn.btn-raised:not(.btn-link):active.btn-success,
 .input-group-btn .btn.btn-raised:not(.btn-link):focus.btn-success,
 .input-group-btn .btn.btn-raised:not(.btn-link):hover.btn-success {
-    background-color: #59b75c
+    background-color: #d9d75c
 }
 
 .btn-group-raised .btn:not(.btn-link).active.btn-info,
@@ -813,7 +813,7 @@ fieldset[disabled][disabled] .input-group-btn .btn.btn-raised:focus:not(:active)
 
 .btn-group-vertical.open>.dropdown-toggle.btn.btn-success,
 .btn-group.open>.dropdown-toggle.btn.btn-success {
-    background-color: #4caf50
+    background-color: #c7b648
 }
 
 .btn-group-vertical.open>.dropdown-toggle.btn.btn-info,
@@ -1770,7 +1770,7 @@ output {
 }
 
 .label.label-success {
-    background-color: #4caf50
+    background-color: #c9cb46
 }
 
 .label.label-info {
@@ -1942,15 +1942,15 @@ fieldset[disabled] .form-group .form-control {
 }
 
 .form-group.has-success.is-focused .form-control {
-    background-image: -webkit-gradient(linear, left top, left bottom, from(#4caf50), to(#4caf50)), -webkit-gradient(linear, left top, left bottom, from(#D2D2D2), to(#D2D2D2));
-    background-image: -webkit-linear-gradient(#4caf50, #4caf50), -webkit-linear-gradient(#D2D2D2, #D2D2D2);
-    background-image: -o-linear-gradient(#4caf50, #4caf50), -o-linear-gradient(#D2D2D2, #D2D2D2);
-    background-image: linear-gradient(#4caf50, #4caf50), linear-gradient(#D2D2D2, #D2D2D2)
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#c9cb46), to(#c9cb46)), -webkit-gradient(linear, left top, left bottom, from(#D2D2D2), to(#D2D2D2));
+    background-image: -webkit-linear-gradient(#c9cb46, #c9cb46), -webkit-linear-gradient(#D2D2D2, #D2D2D2);
+    background-image: -o-linear-gradient(#c9cb46, #c9cb46), -o-linear-gradient(#D2D2D2, #D2D2D2);
+    background-image: linear-gradient(#c9cb46, #c9cb46), linear-gradient(#D2D2D2, #D2D2D2)
 }
 
 .form-group.has-success .help-block,
 .form-group.has-success label.control-label {
-    color: #4caf50
+    color: #c9cb46
 }
 
 .form-group.has-info .form-control {
@@ -2810,7 +2810,7 @@ fieldset[disabled] .navbar .btn-link:hover {
 }
 
 .navbar.navbar-success {
-    background-color: #4caf50;
+    background-color: #c9cb46;
     color: rgba(255, 255, 255, .84)
 }
 
@@ -2835,7 +2835,7 @@ fieldset[disabled] .navbar .btn-link:hover {
 
 @media (max-width:767px) {
     .navbar.navbar-success .dropdown-menu .dropdown-header {
-        background-color: #5cb860
+        background-color: #c9cb46
     }
 }
 
@@ -2846,12 +2846,12 @@ fieldset[disabled] .navbar .btn-link:hover {
 
 .navbar.navbar-success .dropdown-menu li>a:focus,
 .navbar.navbar-success .dropdown-menu li>a:hover {
-    color: #4caf50;
+    color: #c9cb46;
     background-color: #eee
 }
 
 .navbar.navbar-success .dropdown-menu .active>a {
-    background-color: #4caf50;
+    background-color: #c9cb46;
     color: rgba(255, 255, 255, .84)
 }
 
@@ -3170,7 +3170,7 @@ fieldset[disabled] .navbar .btn-link:hover {
 }
 
 .progress .progress-bar.progress-bar-success {
-    background-color: #4caf50
+    background-color: #c9cb46
 }
 
 .progress .progress-bar.progress-bar-info {
@@ -3727,7 +3727,7 @@ hr.on-light {
 }
 
 .slider.slider-success.noUi-connect {
-    background-color: #4caf50
+    background-color: #c9cb46
 }
 
 .slider.slider-info.noUi-connect {
@@ -3756,7 +3756,7 @@ hr.on-light {
 }
 
 .slider.slider-success .noUi-connect {
-    background-color: #4caf50
+    background-color: #c9cb46
 }
 
 .slider.slider-info .noUi-connect {
@@ -3785,7 +3785,7 @@ hr.on-light {
 }
 
 .slider.slider-success .noUi-handle {
-    background-color: #4caf50
+    background-color: #c9cb46
 }
 
 .slider.slider-info .noUi-handle {
@@ -3814,7 +3814,7 @@ hr.on-light {
 }
 
 .slider.slider-success .noUi-handle {
-    border-color: #4caf50
+    border-color: #c9cb46
 }
 
 .slider.slider-info .noUi-handle {

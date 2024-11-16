@@ -40,7 +40,7 @@
             </li>
             <li>
               <a href="configAdmin.php?view=order">
-                <i class="fa fa-shopping-cart" aria-hidden="true"></i> &nbsp; Pedidos
+                <i class="fa fa-cart-plus" aria-hidden="true"></i> &nbsp; Pedidos
               </a>
             </li>
             <li>
