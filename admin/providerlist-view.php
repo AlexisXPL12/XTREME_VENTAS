@@ -1,5 +1,5 @@
 <p class="lead">
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet, culpa quasi tempore assumenda, perferendis sunt. Quo consequatur saepe commodi maxime, sit atque veniam blanditiis molestias obcaecati rerum, consectetur odit accusamus.
+Lista de todos los proveedores agregados en la tienda virtual, aqui puedes editar y elminar productos.
 </p>
 <ul class="breadcrumb" style="margin-bottom: 5px;">
     <li>

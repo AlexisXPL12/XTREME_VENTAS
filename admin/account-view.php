@@ -1,6 +1,5 @@
 <p class="lead">
-    Actulaizar la información de la cuenta
-
+    Actualizar la información de la cuenta del administrador
 </p>
 <div class="container">
 	<div class="row">

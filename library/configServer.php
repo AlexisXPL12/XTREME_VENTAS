@@ -1,7 +1,7 @@
 <?php
-define("USER", "");
+define("USER", "diego");
 define("SERVER", "localhost");
-define("BD", "");
-define("PASS", "");
+define("BD", "xtremeai");
+define("PASS", "diego2001");
 ?>
 

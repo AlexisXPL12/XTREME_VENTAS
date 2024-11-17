@@ -1,5 +1,5 @@
 <p class="lead">
-    Registra tus categorias.
+Lista de todas las categorias agregados en la tienda virtual, aqui puedes editar y elminar productos.
 </p>
 <ul class="breadcrumb" style="margin-bottom: 5px;">
     <li>
